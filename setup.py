@@ -19,7 +19,8 @@ setup(name="ofxstatement-austrian",
       long_description=long_description,
       license="GPLv3",
       keywords=[
-          "ofxstatement", "easybank", "ing-diba", "livebank", "raiffeisen", "oberbank"],
+          "ofxstatement", "easybank", "ing-diba",
+          "livebank", "raiffeisen", "oberbank"],
       classifiers=[
           "Development Status :: 3 - Alpha",
           "Programming Language :: Python :: 3",
