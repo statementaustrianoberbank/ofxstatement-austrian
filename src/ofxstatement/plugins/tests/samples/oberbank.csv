@@ -1,0 +1,8 @@
+Buchungsdatum;Wertstellung;Betrag;Währung;Auftraggebername;Auftraggeber IBAN/Kto.Nr.;Auftraggeber BIC/BLZ;Empfängername;Empfänger IBAN/Kto.Nr.;Empfänger BIC/BLZ;Text;Verwendungszweck
+28.06.13;01.07.13;0,58;EUR;;;;;;;0,125 % p.a. Habenzinsen ab 01.04.13;
+28.06.13;01.07.13;-0,15;EUR;;;;;;;Kapitalertragsteuer;
+28.06.13;01.07.13;-0,11;EUR;;;;;;;Entgelt Kontoauszug;
+28.06.13;01.07.13;-6,65;EUR;;;;;;;Entgelt Kontoführung;
+01.07.13;01.07.13;-175,16;EUR;;;;;;;ELBA-INTERNET VOM 29.06 UM 09:16  Empfänger:  A person  Verwendungszweck:  Invoice number 10;
+01.07.13;01.07.13;-100;EUR;;;;;;;Lastschrift  Auftraggeber:  A company  Kundendaten:  000000000000 111111111111  Verwendungszweck:  reason;
+04.07.13;04.07.13;123,6;EUR;;;;;;;Gutschrift Auftraggeber: A person Kundendaten: reason;
