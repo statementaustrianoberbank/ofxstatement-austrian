@@ -34,6 +34,10 @@ class OberbankCsvParser(CsvStatementParser):
 
     def parse_record(self, line):
         """Parse a single record."""
+        # Skip header line
+        if self.cur_record == 1:
+            return None
+
         # Currency
         if not self.statement.currency:
             self.statement.currency = line[3]
